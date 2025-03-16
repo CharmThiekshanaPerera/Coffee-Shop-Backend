@@ -1,0 +1,28 @@
+.qodo
+
+# Python-specific ignores
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+
+# Virtual environment
+venv/
+
+# Environment variables
+.env
+
+# OS-specific ignores
+.DS_Store
+Thumbs.db
+
+# IDE-specific ignores
+.vscode/
+.idea/
+
+# CSV data files (optional, if not tracking data)
+*.csv" > .gitignore
+coffee_sales_model.pkl
+coffee_shop_sales.pkl
+coffee_sales_model.pkl
